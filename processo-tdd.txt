@@ -1,0 +1,1 @@
+Devemos escrever testes de desenvolvimento funcional até que falhem, repetindo o processo aceito. O processo de desenvolvimento consiste em criar um teste de unidade e fazer algumas pequenas alterações até que ele passe. aplicativo e reinicie o processo. Ao final do ciclo, todos os processos serão aprovados e teremos um sistema operacional.
